@@ -1,0 +1,13 @@
+{
+  "name": "moduleab-site",
+  "description": "Web site for ModuleAB",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ProjectModuleAngelaBaby/ProjectModuleAB_Site",
+  "license": "GPL",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.2.0"
+  }
+}
