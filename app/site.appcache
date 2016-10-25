@@ -1,0 +1,6 @@
+CACHE MANIFEST
+# date 20161025
+
+CACHE:
+/img/*
+/bower_componets/*
