@@ -1,6 +1,13 @@
 CACHE MANIFEST
-# date 20161025-1
+# date 20161025-2
 
 CACHE:
-/img/*
-/bower_components/*
+/img/1.png
+/img/2.png
+/img/3.png
+/bower_components/bootstrap/dist/css/bootstrap.min.css
+/bower_components/font-awesome/css/font-awesome.min.css
+/bower_components/jquery/dist/jquery.min.js
+/bower_components/bootstrap/dist/js/bootstrap.min.js
+/bower_components/font-awesome/fonts/fontawesome-webfont.woff
+/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
